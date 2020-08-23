@@ -4,12 +4,13 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
 }
-
+    
 h1,h2{
     text-align: left;
     color:rgb(2, 0, 128);
    font-family:Verdana, Geneva, Tahoma, sans-serif;
 } 
+
 
 .container{
     margin-top: 100px;
@@ -17,22 +18,19 @@ h1,h2{
     margin-bottom: 45px;
 
 }
-
+       
 .content{
     background-color:rgb(24, 224, 24);
     padding: 100px;
     flex-direction: column;
 
 }
-
 .top-part{
     padding: 100px;
     background-color: rgb(241, 73, 43)    ;
 }
-
 .form{
     background-color: khaki;
     padding: 100px;
-    
-    
+        
 }
