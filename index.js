@@ -28,3 +28,22 @@ function getuserInfo(){
      alert("You were born on "+ dateWeek[d] + " and your Akan name is "+ name);
 
 }
+
+function radioInfo (){
+    var radio = document.getElementsByName('gender');
+    
+    
+    for (var i = 0;  i<radio.length; i++)
+    {
+    if (radio[i].checked==true)
+    {
+     // do whatever you want with the checked radio
+     gender = radio[i].value;
+    
+    //  only one radio can be logically checked, don't check the rest
+     return gender;
+    }
+    }
+    
+    }
+    
