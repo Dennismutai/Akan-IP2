@@ -24,3 +24,7 @@ function getuserInfo(){
      else{
         name = female[d];
      }
+
+     alert("You were born on "+ dateWeek[d] + " and your Akan name is "+ name);
+
+}
