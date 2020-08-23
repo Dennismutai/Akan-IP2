@@ -16,3 +16,11 @@ function getuserInfo(){
     var d = dayWeek.getDay();
     
     var name="" ;
+
+    if (gender ==="male"){
+        name = male[d];
+     }
+     
+     else{
+        name = female[d];
+     }
