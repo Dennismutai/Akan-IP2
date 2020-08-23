@@ -4,3 +4,9 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
 }
+
+h1,h2{
+    text-align: left;
+    color:rgb(2, 0, 128);
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+} 
