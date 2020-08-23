@@ -17,3 +17,10 @@ h1,h2{
     margin-bottom: 45px;
 
 }
+
+.content{
+    background-color:rgb(24, 224, 24);
+    padding: 100px;
+    flex-direction: column;
+
+}
