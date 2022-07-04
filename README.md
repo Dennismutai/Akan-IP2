@@ -1,6 +1,6 @@
 # Akan Names Calculator
 This is my second project on Akan names.
-#### By **Dennis Kipkirui Mutai*
+#### By **Dennis K. Mutai*
 ## Description
 In this website it is basically a calculator of age to display the akan name of a particular person depending on their gender according to GHANANIAN People
 
@@ -23,4 +23,4 @@ The site had problems running the javascript when tried with visual studio.
 
 ### License
 MIT
-Copyright (c)2020 **Dennis Kipkirui Mutai**
+Copyright (c)2020 **Dennis K. Mutai**
