@@ -23,4 +23,4 @@ The site had problems running the javascript when tried with visual studio.
 
 ### License
 MIT
-Copyright (c)2020 **Dennis K. Mutai**
+Copyright (c)2020 **Dennis K. Mutai**![akan names](https://user-images.githubusercontent.com/71698621/177270189-1fabeba3-77e0-40dd-9ece-d86cfd1543a8.png)
