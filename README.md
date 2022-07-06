@@ -1,3 +1,4 @@
+![Uploading akan names.png…]()
 # Akan Names Calculator
 This is my  project on Akan names.
 #### By **Dennis K. Mutai*
@@ -23,4 +24,4 @@ The site had problems running the javascript when tried with visual studio.
 
 ### License
 MIT
-Copyright (c)2020 **Dennis K. Mutai**
+Copyright (c)2020 **Dennis K.Mutai**
